@@ -111,15 +111,34 @@ Note: You need to run `pip uninstall mmcv` first if you have mmcv installed.
 If mmcv and mmcv-full are both installed, there will be `ModuleNotFoundError`.
 
 
-## Author Contributions
+## 📂 Dataset Structure
 
-The authors contributed to the paper as follows:  
-**Xiaoyan Shao** conceptualized the research algorithm and drafted the initial manuscript.  
-**Shiqin Diao** reviewed and refined the content.  
-**Lingling Li** provided overall project supervision.  
-**Xuezhuan Zhao** offered algorithmic support.  
-**Yang Mei** assisted in manuscript editing.  
-**Zonghao Zhu** validated the research findings and approved the final version of the manuscript.
+1.The folder structure of the VisDrone2019 dataset used in this project is organized as follows:
+
+Please download [VisDrone 2019](https://github.com/VisDrone/VisDrone-Dataset) dataset and organize them as following:
+```
+datasets/
+└── visdrone2019/
+    ├── images/
+    ├── labels/
+    ├── train/
+    ├── val/
+    └── test/
+```
+
+2.The folder structure of the Simd dataset used in this project is organized as follows:
+
+Please download [Simd](https://github.com/ihians/simd/tree/master) dataset and organize them as following:
+```
+datasets/
+└── Simd/
+    ├── images/
+    ├── labels/
+    ├── train/
+    ├── val/
+    └── test/
+```
+
 
 ## Acknowledgements
 
@@ -131,6 +150,15 @@ This research was supported by the following funding sources:
 - The Henan Center for Outstanding Overseas Scientists (GZS2022011)
 
 
+## 📖 Citation (Under Review)
+
+If you find **WT-DETR** useful in your research, please consider citing our work:
+
+> **"WT-DETR: Wavelet Transform Enhanced DETR for Tiny Object Detection"**  
+> Xiaoyan Shao, Shiqin Diao, Lingling Li, Xuezhuan Zhao, Yang Mei, Zonghao Zhu  
+> *Submitted to The Visual Computer (Springer), 2025.*
+
+We will update the citation with the official DOI once the paper is accepted.
 
 
 
