@@ -140,16 +140,6 @@ datasets/
 ```
 
 
-## Acknowledgements
-
-This research was supported by the following funding sources:  
-- The Research Programs of the Henan Provincial Department of Science and Technology (252102210034, 232102210054)  
-- The Chongqing Natural Science Foundation (CSTB2023NSCQ-MSX0070)  
-- The Henan Province Key Research and Development Project (231111212000)  
-- The Aviation Science Foundation (20230001055002)  
-- The Henan Center for Outstanding Overseas Scientists (GZS2022011)
-
-
 ## 📖 Citation (Under Review)
 
 If you find **WT-DETR** useful in your research, please consider citing our work:
