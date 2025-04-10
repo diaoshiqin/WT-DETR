@@ -143,11 +143,13 @@ datasets/
 
 If you find **WT-DETR** useful in your research, please consider citing our work:
 
-> **"WT-DETR: Wavelet Transform Enhanced DETR for Tiny Object Detection"**  
+> **"WT-DETR: Wavelet-Enhanced DETR for Robust Tiny Object Detection via Multi-Scale Feature Optimization"**  
 > Xiaoyan Shao, Shiqin Diao, Lingling Li, Xuezhuan Zhao, Yang Mei, Zonghao Zhu  
 > *Submitted to The Visual Computer (Springer), 2025.*
 
 We will update the citation with the official DOI once the paper is accepted.
+
+
 
 
 
